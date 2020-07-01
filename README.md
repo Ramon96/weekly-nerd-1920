@@ -1,7 +1,4 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
-gankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-|   |   |   |   |   |
-
 In deze repo vertel ik kort over de workshops die ik heb bijgewoont en deel ik graag mijn kennis over onderwerpen die ik interresant vond.
 
 De workshops\
