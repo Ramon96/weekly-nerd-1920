@@ -10,6 +10,6 @@ De workshops\
 
 De Artikelen\
   [📓 CSS met perspectief](https://github.com/Ramon96/weekly-nerd-1920/wiki/%F0%9F%93%93-CSS-met-perspectief)\
-[📓 Samenwerken binnen een team}(https://github.com/Ramon96/weekly-nerd-1920/wiki/%F0%9F%93%93-Samenwerken-binnen-een-team)\
+[📓 Samenwerken binnen een team](https://github.com/Ramon96/weekly-nerd-1920/wiki/%F0%9F%93%93-Samenwerken-binnen-een-team)\
 [📓 Query je Api](https://github.com/Ramon96/weekly-nerd-1920/wiki/%F0%9F%93%93-Query-je-Api)
 
